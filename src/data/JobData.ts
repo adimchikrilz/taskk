@@ -1,6 +1,3 @@
-
-// src/data/jobData.ts
-
 // Define the Job interface
 export interface Job {
   id: string | number;
